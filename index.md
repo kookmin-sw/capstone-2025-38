@@ -1,37 +1,102 @@
-## Welcome to GitHub Pages
+# 정릉 살펴보기 - 지역의 시간을 기록하는 시대별 시설 시각화 플랫폼
 
-You can use the [editor on GitHub](https://github.com/kookmin-sw/cap-template/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+> 시대별 시설 변화와 통계를 시각화하는 지도 기반 웹 플랫폼
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 추후 영상 넣기
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
+## 주요 기능
 
-# Header 1
-## Header 2
-### Header 3
+- 🗺️ **지도 기반 시설 시각화**: 병원/대피소 마커 클릭 시 우측 카드 리스트에서 해당 카드 강조
+- 📅 **연도 슬라이더 필터링**: 특정 시점의 시설 정보 탐색
+- 📊 **통계 시각화**: 시설 데이터 흐름을 직관적으로 파악 가능
+- 📂 **카테고리별 필터 버튼**: 병원 / 대피소 / 통계만 선택적으로 보기 가능
+- 📄 **CSV 다운로드 기능**: 시설 데이터를 CSV 형식으로 다운 가능
+  
+<br>
 
-- Bulleted
-- List
+## 프로젝트 소개
 
-1. Numbered
-2. List
+> “지역의 시간을 기록하고, 변화의 흐름을 한눈에 담다”
 
-**Bold** and _Italic_ and `Code` text
+**정릉 살펴보기**는 졍릉3동의 시설 정보를 시대별로 시각화하고,
+변화의 흐름을 데이터 기반으로 탐색할 수 있는 지도 플랫폼입니다.
 
-[Link](url) and ![Image](src)
-```
+- 🗺️ 원하는 연도를 선택해 그 시점에 존재했던 시설만 지도에서 확인하고,
+- 📊 통계 시각화를 통해 시설의 설립 추이와 운영 현황을 직관적으로 파악하세요.
+- 🧭 변화하는 지역의 이야기를 아카이브처럼 탐색하고,
+- 🏥 병원부터 대피소까지, 다양한 공공시설을 한눈에 비교해보세요.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<br>
 
-### Jekyll Themes
+## 핵심 기능
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kookmin-sw/cap-template/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 1. 시설 지도 시각화 🗺️
+- 정릉3동 병원·대피소를 지도 위 마커로 시각화
+-	유형과 상태별 색상·아이콘으로 직관적 구분
+-	운영 중/폐쇄 여부를 색상으로 표현
 
-### Support or Contact
+### 2. 시대별 필터링 슬라이더 📅
+- 연도 선택 시 해당 시점의 시설만 지도에 표시
+- 시설 변화 흐름을 시각적으로 확인 가능
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 3. 상세 정보 카드 📋
+- 마커 클릭 시 카드 자동 스크롤 및 강조 표시
+- 이름, 위치, 설립연도, 운영 상태 등 정보 제공
+
+### 4. 통계 시각화 차트 📊
+- 병원: 연도별 설립 수, 누적 운영 수 막대그래프
+- 대피소: 수용 인원·운영 상태 차트로 분석
+
+### 5. 통계 전용 페이지 📈
+- 지도와 분리된 통계 페이지에서 데이터 비교
+- 연도·조건별 통계 흐름을 한눈에 파악 가능
+
+### 6. CSV 다운로드 기능 📄
+- 현재 화면에 표시된 시설 데이터를 CSV 파일로 저장
+- 외부 분석, 보고서 작성 등 다양한 활용 가능
+
+<br>
+
+## 기술 스택
+아래는 본 프로젝트의 전체 아키텍처 구성도입니다.
+
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/935f623b-c1b5-48d6-89ae-1e5032d677bf" />
+
+<br>
+
+## 팀 소개
+
+#### 민예원
+- 역할: 프론트엔드
+- LinkedIn: [@민예원](www.linkedin.com/in/예원-민-9b5892358)
+
+#### 서하진
+- 역할: 백엔드
+- LinkedIn: [@hajinSeo](www.linkedin.com/in/하진-서-5a5765358)
+
+#### 오지현
+- 역할: 프론트엔드
+- LinkedIn: [@오지현](https://www.linkedin.com/in/ozhyeon)
+
+#### 이보람
+- 역할: 프론트엔드
+- LinkedIn: [@hajinseo](www.linkedin.com/in/하진-서-5a5765358)
+
+#### 이혜린
+- 역할: 프론트엔드
+- LinkedIn: [@HyerinLee](http://www.linkedin.com/in/hyerin-lee-444936358)
+
+#### 조현성
+- 역할: 프론트엔드
+- LinkedIn: [@조현성](www.linkedin.com/in/현성-조-438893358)
+
+<br>
+
+## 기술 스택
+
+
+### 💬 GitHub
+[프로젝트 저장소 방문하기](https://github.com/kookmin-sw/capstone-2025-38)
