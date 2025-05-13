@@ -65,7 +65,7 @@
 
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/935f623b-c1b5-48d6-89ae-1e5032d677bf" />
 
-<br>
+<br><br>
 
 ## 팀 소개
 
