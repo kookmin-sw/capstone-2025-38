@@ -1,0 +1,8 @@
+{
+  "short_name": "정릉3동 지도",
+  "name": "정릉3동 시설 모아보기",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
