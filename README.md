@@ -69,26 +69,8 @@
 
 ## 팀 소개
 
-#### 민예원
-- 역할: 프론트엔드
-- GitHub: [@minywyw](https://github.com/minywyw)
-
-#### 서하진
-- 역할: 백엔드
-- GitHub: [@jin3079](https://github.com/jin3079)
-
-#### 오지현
-- 역할: 프론트엔드
-- GitHub: [@Jihyeon317](https://github.com/Jihyeon317)
-
-#### 이보람
-- 역할: 프론트엔드
-- GitHub: [@ryu31847](https://github.com/ryu31847)
-
-#### 이혜린
-- 역할: 프론트엔드
-- GitHub: [@hyerin128](https://github.com/hyerin128)
-
-#### 조현성
-- 역할: 프론트엔드
-- GitHub: [@hyunsung6608](https://github.com/hyunsung6608)
+<div>
+| **민예원** | **서하진** | **오지현** | **이보람** | **이혜린** | **조현성** |
+| frontend | backend | frontend | frontend | frontend | frontend |
+| [@minywyw](https://github.com/minywyw) | [@jin3079](https://github.com/jin3079) | [@Jihyeon317](https://github.com/Jihyeon317) | [@ryu31847](https://github.com/ryu31847) | [@hyerin128](https://github.com/hyerin128) | [@hyunsung6608](https://github.com/hyunsung6608) |
+</div>
