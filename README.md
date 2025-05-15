@@ -69,8 +69,7 @@
 
 ## 팀 소개
 
-<div>
 | **민예원** | **서하진** | **오지현** | **이보람** | **이혜린** | **조현성** |
-| frontend | backend | frontend | frontend | frontend | frontend |
+|-----------|------------|------------|------------|------------|------------|
+| frontend  | backend    | frontend   | frontend   | frontend   | frontend   |
 | [@minywyw](https://github.com/minywyw) | [@jin3079](https://github.com/jin3079) | [@Jihyeon317](https://github.com/Jihyeon317) | [@ryu31847](https://github.com/ryu31847) | [@hyerin128](https://github.com/hyerin128) | [@hyunsung6608](https://github.com/hyunsung6608) |
-</div>
