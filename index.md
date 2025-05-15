@@ -69,34 +69,16 @@
 
 ## 팀 소개
 
-#### 민예원
-- 역할: 프론트엔드
-- LinkedIn: [@민예원](www.linkedin.com/in/예원-민-9b5892358)
-
-#### 서하진
-- 역할: 백엔드
-- LinkedIn: [@hajinSeo](www.linkedin.com/in/하진-서-5a5765358)
-
-#### 오지현
-- 역할: 프론트엔드
-- LinkedIn: [@오지현](https://www.linkedin.com/in/ozhyeon)
-
-#### 이보람
-- 역할: 프론트엔드
-- LinkedIn: [@hajinseo](www.linkedin.com/in/하진-서-5a5765358)
-
-#### 이혜린
-- 역할: 프론트엔드
-- LinkedIn: [@HyerinLee](http://www.linkedin.com/in/hyerin-lee-444936358)
-
-#### 조현성
-- 역할: 프론트엔드
-- LinkedIn: [@조현성](www.linkedin.com/in/현성-조-438893358)
+| **민예원** | **서하진** | **오지현** | **이보람** | **이혜린** | **조현성** |
+|-----------|------------|------------|------------|------------|------------|
+| frontend  | backend    | frontend   | frontend   | frontend   | frontend   |
+| [@민예원](www.linkedin.com/in/예원-민-9b5892358) | [@hajinSeo](www.linkedin.com/in/하진-서-5a5765358) | [@오지현](https://www.linkedin.com/in/ozhyeon) | [@hajinseo](www.linkedin.com/in/하진-서-5a5765358) | [@HyerinLee](http://www.linkedin.com/in/hyerin-lee-444936358) | [@조현성](www.linkedin.com/in/현성-조-438893358) |
 
 <br>
 
 ## 사용법
 
+<br><br>
 
 ### 💬 GitHub
 [프로젝트 저장소 방문하기](https://github.com/kookmin-sw/capstone-2025-38)
