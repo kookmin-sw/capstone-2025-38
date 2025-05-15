@@ -92,7 +92,3 @@
 #### 조현성
 - 역할: 프론트엔드
 - GitHub: [@hyunsung6608](https://github.com/hyunsung6608)
-
-
-### 💬 GitHub
-[프로젝트 저장소 방문하기](https://github.com/kookmin-sw/capstone-2025-38)
